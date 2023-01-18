@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:backgroundTint="#FF0000">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:background="@color/colorHeader"
+        >
+
+        <RelativeLayout
+            android:id="@+id/actionbar_normal"
+            android:layout_width="match_parent"
+            android:layout_height="80dp"
+            android:paddingStart="20dp"
+            android:paddingEnd="20dp">
+            android:gravity="center_vertical">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="30dp"
+                android:text="공지사항"
+                android:textColor="#000000"
+                android:textSize="20sp"
+                android:textStyle="bold" />
+        </RelativeLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:background="#e5e5e5"></LinearLayout>
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@+id/toolbar"
+        android:orientation="vertical">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:padding="10dp">
+
+            <LinearLayout
+                android:id="@+id/contentsLayout"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+
+                <TextView
+                    android:id="@+id/titleEditText4"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:ems="10"
+                    android:textStyle="bold"
+                    android:text="2022-05-30 업데이트 내역\n1. 시간표 추가
+\n- 시간표 추가 \n2. 문의하기 추가\n- 불만사항 및 개선사항 등 문의하고자 하는 내용을 접수\n4. 홈페이지 바로가기 추가\n- 해당 학교 홈페이지 바로가기\n
+추가적인 기능 부분은 업데이트 내역을 확인해 주시기 바랍니다."/>
+
+            </LinearLayout>
+
+        </LinearLayout>
+
+
+      </ScrollView>
+    </LinearLayout>
+</RelativeLayout>

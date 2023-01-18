@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.csh.application">
+
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE"/>
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/halla_icon"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/halla_icon_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.MyApplication">
+        <activity android:name="com.csh.application.Activity.ResetPasswordActivity"
+            android:parentActivityName="com.csh.application.Activity.LoginActivity"></activity>
+        <activity android:name="com.csh.application.Activity.MessageActivity" />
+        <activity android:name="com.csh.application.BulletinBoard.TransferActivity" />
+        <activity android:name="com.csh.application.BulletinBoard.ReturnActivity" />
+        <activity android:name="com.csh.application.BulletinBoard.NewActivity" />
+        <activity android:name="com.csh.application.Activity.LoginActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name="com.csh.application.Activity.RegisterActivity" />
+        <activity android:name="com.csh.application.Activity.MainActivity" />
+        <activity android:name="com.csh.application.Activity.GalleryActivity" />
+        <activity android:name="com.csh.application.Activity.PostActivity" />
+        <activity android:name="com.csh.application.Activity.RoomActivity" />
+        <activity android:name="com.csh.application.Activity.AnnouncementActivity" />
+        <activity android:name="com.csh.application.Activity.LightbulbActivity"/>
+        <activity android:name="com.csh.application.Activity.TimetableActivity"/>
+        <activity android:name="com.csh.application.Activity.EditActivity"/>
+        <activity android:name="com.csh.application.BulletinBoard.NewWriteActivity" />
+        <activity android:name="com.csh.application.BulletinBoard.ReturnWriteActivity" />
+        <activity android:name="com.csh.application.BulletinBoard.TransferWriteActivity" />
+
+    </application>
+
+</manifest>

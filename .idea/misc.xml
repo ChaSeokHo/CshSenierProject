@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/MyApplication/app/src/main/res/drawable-anydpi/ic_action_name.xml" value="0.2365" />
+        <entry key="..\:/MyApplication/app/src/main/res/drawable-anydpi/massage_button.xml" value="0.2575" />
+        <entry key="..\:/MyApplication/app/src/main/res/drawable-hdpi/btn_lightgrey.xml" value="0.2295" />
+        <entry key="..\:/MyApplication/app/src/main/res/drawable-hdpi/btn_purple.xml" value="0.2295" />
+        <entry key="..\:/MyApplication/app/src/main/res/drawable-v24/btn_icon_background.xml" value="0.2295" />
+        <entry key="..\:/MyApplication/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.2365" />
+        <entry key="..\:/MyApplication/app/src/main/res/drawable-xhdpi/unit_edges1.xml" value="0.2365" />
+        <entry key="..\:/MyApplication/app/src/main/res/drawable-xxhdpi/btn_black.xml" value="0.2295" />
+        <entry key="..\:/MyApplication/app/src/main/res/drawable/background_big.xml" value="0.285" />
+        <entry key="..\:/MyApplication/app/src/main/res/drawable/background_left.xml" value="0.2575" />
+        <entry key="..\:/MyApplication/app/src/main/res/drawable/background_mini.xml" value="0.285" />
+        <entry key="..\:/MyApplication/app/src/main/res/drawable/background_right.xml" value="0.2575" />
+        <entry key="..\:/MyApplication/app/src/main/res/drawable/ic_baseline_add_24.xml" value="0.2365" />
+        <entry key="..\:/MyApplication/app/src/main/res/drawable/ic_baseline_more_vert_24.xml" value="0.2365" />
+        <entry key="..\:/MyApplication/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2365" />
+        <entry key="..\:/MyApplication/app/src/main/res/drawable/message_button.xml" value="0.2575" />
+        <entry key="..\:/MyApplication/app/src/main/res/drawable/unit_edges.xml" value="0.2365" />
+        <entry key="..\:/MyApplication/app/src/main/res/layout/activity_announcement.xml" value="0.23072916666666668" />
+        <entry key="..\:/MyApplication/app/src/main/res/layout/activity_forbid_behaviour.xml" value="0.1931124673060157" />
+        <entry key="..\:/MyApplication/app/src/main/res/layout/activity_gallery.xml" value="0.36614583333333334" />
+        <entry key="..\:/MyApplication/app/src/main/res/layout/activity_lightbulb.xml" value="0.23020833333333332" />
+        <entry key="..\:/MyApplication/app/src/main/res/layout/activity_login.xml" value="0.36614583333333334" />
+        <entry key="..\:/MyApplication/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/MyApplication/app/src/main/res/layout/activity_message.xml" value="0.22" />
+        <entry key="..\:/MyApplication/app/src/main/res/layout/activity_new.xml" value="0.2796875" />
+        <entry key="..\:/MyApplication/app/src/main/res/layout/activity_post.xml" value="0.2796875" />
+        <entry key="..\:/MyApplication/app/src/main/res/layout/activity_register.xml" value="0.33" />
+        <entry key="..\:/MyApplication/app/src/main/res/layout/activity_report.xml" value="0.2796875" />
+        <entry key="..\:/MyApplication/app/src/main/res/layout/activity_reset_password.xml" value="0.23072916666666668" />
+        <entry key="..\:/MyApplication/app/src/main/res/layout/activity_return.xml" value="0.23020833333333332" />
+        <entry key="..\:/MyApplication/app/src/main/res/layout/activity_return_write_post.xml" value="0.33" />
+        <entry key="..\:/MyApplication/app/src/main/res/layout/activity_room.xml" value="0.15925925925925927" />
+        <entry key="..\:/MyApplication/app/src/main/res/layout/activity_table.xml" value="0.2796875" />
+        <entry key="..\:/MyApplication/app/src/main/res/layout/activity_time_picker.xml" value="0.20989583333333334" />
+        <entry key="..\:/MyApplication/app/src/main/res/layout/activity_transfer.xml" value="0.2796875" />
+        <entry key="..\:/MyApplication/app/src/main/res/layout/activity_transfer_write_post.xml" value="0.2796875" />
+        <entry key="..\:/MyApplication/app/src/main/res/layout/activity_write_post.xml" value="0.2796875" />
+        <entry key="..\:/MyApplication/app/src/main/res/layout/an.xml" value="0.19293478260869565" />
+        <entry key="..\:/MyApplication/app/src/main/res/layout/an_xml.xml" value="0.3140625" />
+        <entry key="..\:/MyApplication/app/src/main/res/layout/chat_item_left.xml" value="0.2796875" />
+        <entry key="..\:/MyApplication/app/src/main/res/layout/chat_item_right.xml" value="0.2796875" />
+        <entry key="..\:/MyApplication/app/src/main/res/layout/fragment_chats.xml" value="0.21240942028985507" />
+        <entry key="..\:/MyApplication/app/src/main/res/layout/fragment_profile.xml" value="0.23072916666666668" />
+        <entry key="..\:/MyApplication/app/src/main/res/layout/fragment_users.xml" value="0.23072916666666668" />
+        <entry key="..\:/MyApplication/app/src/main/res/layout/inner_table.xml" value="0.2796875" />
+        <entry key="..\:/MyApplication/app/src/main/res/layout/inner_table_header.xml" value="0.2796875" />
+        <entry key="..\:/MyApplication/app/src/main/res/layout/item_gallery.xml" value="0.2796875" />
+        <entry key="..\:/MyApplication/app/src/main/res/layout/item_post.xml" value="0.2796875" />
+        <entry key="..\:/MyApplication/app/src/main/res/layout/main_actionbar.xml" value="0.2796875" />
+        <entry key="..\:/MyApplication/app/src/main/res/layout/time_picker_actionbar.xml" value="0.2796875" />
+        <entry key="..\:/MyApplication/app/src/main/res/layout/user_item.xml" value="0.2796875" />
+        <entry key="..\:/MyApplication/app/src/main/res/layout/view_contents_edit_text.xml" value="0.2796875" />
+        <entry key="..\:/MyApplication/app/src/main/res/layout/view_contents_edit_text2.xml" value="0.2796875" />
+        <entry key="..\:/MyApplication/app/src/main/res/layout/view_contents_edit_text3.xml" value="0.36614583333333334" />
+        <entry key="..\:/MyApplication/app/src/main/res/layout/view_contents_image.xml" value="0.22010869565217392" />
+        <entry key="..\:/MyApplication/app/src/main/res/layout/view_contents_player.xml" value="0.2796875" />
+        <entry key="..\:/MyApplication/app/src/main/res/layout/view_contents_text.xml" value="0.2796875" />
+        <entry key="..\:/MyApplication/app/src/main/res/layout/view_post.xml" value="0.2796875" />
+        <entry key="..\:/MyApplication/app/src/main/res/layout/view_toolbar.xml" value="0.21240942028985507" />
+        <entry key="..\:/MyApplication/app/src/main/res/menu/post.xml" value="0.23020833333333332" />
+        <entry key="..\:/MyApplication/app/src/main/res/mipmap-anydpi-v26/halla_icon.xml" value="0.2365" />
+        <entry key="..\:/MyApplication/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.2365" />
+        <entry key="..\:/MyApplication/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.2365" />
+        <entry key="..\:/MyApplication/app/src/main/res/mipmap/ic_launcher.xml" value="0.284" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
