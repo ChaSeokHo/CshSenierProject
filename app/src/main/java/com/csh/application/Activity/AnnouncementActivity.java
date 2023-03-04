@@ -2,7 +2,7 @@ package com.csh.application.Activity;
 
 import android.os.Bundle;
 
-import com.example.application.R;
+import com.csh.application.R;
 
 public class AnnouncementActivity extends BasicActivity {
     @Override

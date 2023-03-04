@@ -13,7 +13,7 @@ import android.widget.Toast;
 import androidx.appcompat.app.AppCompatActivity;
 
 import com.csh.application.view.TimeBoxView;
-import com.example.application.R;
+import com.csh.application.R;
 import com.csh.application.contract.EditContract;
 import com.csh.application.presenter.EditPresenter;
 import com.github.tlaabs.timetableview.Schedule;

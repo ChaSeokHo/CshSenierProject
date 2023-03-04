@@ -11,7 +11,7 @@ import androidx.recyclerview.widget.RecyclerView;
 import com.csh.application.Activity.BasicActivity;
 import com.csh.application.adapter.MainAdapter;
 import com.csh.application.listener.OnPostListener;
-import com.example.application.R;
+import com.csh.application.R;
 import com.csh.application.Writeinfo;
 import com.google.android.material.floatingactionbutton.FloatingActionButton;
 import com.google.firebase.auth.FirebaseAuth;

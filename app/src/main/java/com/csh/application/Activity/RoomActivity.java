@@ -16,7 +16,7 @@ import com.csh.application.Fragments.ChatsFragment;
 import com.csh.application.Fragments.ProfileFragment;
 import com.csh.application.Fragments.UsersFragment;
 import com.csh.application.Memberinfo;
-import com.example.application.R;
+import com.csh.application.R;
 import com.google.android.material.tabs.TabLayout;
 import com.google.firebase.auth.FirebaseAuth;
 import com.google.firebase.auth.FirebaseUser;

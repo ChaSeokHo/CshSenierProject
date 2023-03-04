@@ -16,7 +16,7 @@ import androidx.recyclerview.widget.GridLayoutManager;
 import androidx.recyclerview.widget.RecyclerView;
 
 import com.csh.application.Util;
-import com.example.application.R;
+import com.csh.application.R;
 import com.csh.application.adapter.GalleryAdapter;
 
 import java.util.ArrayList;

@@ -20,7 +20,7 @@ import com.csh.application.BulletinBoard.NewWriteActivity;
 import com.csh.application.BulletinBoard.ReturnWriteActivity;
 import com.csh.application.BulletinBoard.TransferWriteActivity;
 import com.csh.application.FirebaseHelper;
-import com.example.application.R;
+import com.csh.application.R;
 import com.csh.application.Writeinfo;
 import com.csh.application.listener.OnPostListener;
 import com.csh.application.view.ReadContentsView;

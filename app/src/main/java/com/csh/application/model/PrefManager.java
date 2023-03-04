@@ -4,7 +4,7 @@ import android.content.Context;
 import android.content.SharedPreferences;
 import android.preference.PreferenceManager;
 
-import com.example.application.R;
+import com.csh.application.R;
 
 public class PrefManager {
     private PrefManager(){}

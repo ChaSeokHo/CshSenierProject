@@ -19,7 +19,7 @@ import com.csh.application.Activity.GalleryActivity;
 import com.csh.application.Util;
 import com.csh.application.Writeinfo;
 import com.csh.application.view.ContentsItemView;
-import com.example.application.R;
+import com.csh.application.R;
 import com.google.android.gms.tasks.OnFailureListener;
 import com.google.android.gms.tasks.OnSuccessListener;
 import com.google.firebase.auth.FirebaseAuth;

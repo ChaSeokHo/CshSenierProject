@@ -12,7 +12,7 @@ import androidx.recyclerview.widget.RecyclerView;
 
 import com.bumptech.glide.Glide;
 import com.csh.application.Util;
-import com.example.application.R;
+import com.csh.application.R;
 
 import java.util.ArrayList;
 

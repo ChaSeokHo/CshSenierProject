@@ -9,7 +9,7 @@ import android.widget.LinearLayout;
 import androidx.appcompat.app.AppCompatActivity;
 
 import com.csh.application.model.PrefManager;
-import com.example.application.R;
+import com.csh.application.R;
 import com.csh.application.contract.MainContract;
 import com.csh.application.presenter.MainPresenter;
 import com.github.tlaabs.timetableview.Schedule;

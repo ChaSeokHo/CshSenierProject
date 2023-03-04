@@ -14,7 +14,7 @@ import androidx.annotation.NonNull;
 import com.csh.application.BulletinBoard.NewActivity;
 import com.csh.application.BulletinBoard.ReturnActivity;
 import com.csh.application.BulletinBoard.TransferActivity;
-import com.example.application.R;
+import com.csh.application.R;
 import com.google.android.gms.tasks.OnCompleteListener;
 import com.google.android.gms.tasks.Task;
 import com.google.firebase.auth.FirebaseAuth;

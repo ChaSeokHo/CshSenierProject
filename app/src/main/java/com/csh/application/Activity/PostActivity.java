@@ -11,7 +11,7 @@ import android.widget.LinearLayout;
 import com.csh.application.view.ReadContentsView;
 import com.csh.application.BulletinBoard.NewWriteActivity;
 import com.csh.application.FirebaseHelper;
-import com.example.application.R;
+import com.csh.application.R;
 import com.csh.application.Writeinfo;
 import com.csh.application.listener.OnPostListener;
 

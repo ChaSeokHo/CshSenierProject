@@ -15,7 +15,7 @@ import com.bumptech.glide.Glide;
 import com.csh.application.Activity.MessageActivity;
 import com.csh.application.Chat;
 import com.csh.application.Memberinfo;
-import com.example.application.R;
+import com.csh.application.R;
 import com.google.firebase.auth.FirebaseAuth;
 import com.google.firebase.auth.FirebaseUser;
 import com.google.firebase.database.DataSnapshot;
